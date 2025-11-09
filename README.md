@@ -43,25 +43,24 @@ git clone https://github.com/Saswata-pal/library-management-system.git
 cd library-management-system 
 ```
 
-### 2️⃣ **Install Dependencies
+### 2️⃣ **Install Dependencies**
 
 Make sure you have Python 3.x installed, then run:
 ```bash
 pip install tkcalendar Pillow
 ```
+- (tkinter and sqlite3 come pre-installed with Python.)
 
-(tkinter and sqlite3 come pre-installed with Python.)
-
-### ▶️ **How to Run
+### ▶️ **How to Run**
 ```bash
 python main.py
 ```
 
 This will launch the main application window of the Library Management System.
 
-### 🗄️ Database Information
+### 🗄️ **Database Information**
 
-##### **The application uses a local SQLite database (library.db) to store:
+##### **The application uses a local SQLite database (library.db) to store:**
 
 📖 Book details: Title, Author, Publication, Availability
 👨‍🎓 Student details: Name, Roll No, Class, Contact
@@ -69,7 +68,7 @@ This will launch the main application window of the Library Management System.
 
 All records persist even after the app is closed.
 
-### 📆 Example Use Case
+### 📆 **Example Use Case**
 
 - Add a new book or student into the system.
 - Select a book and issue it to a student using the calendar widget.
@@ -89,7 +88,7 @@ All records persist even after the app is closed.
 </div>
 
 
-### 💡 **Future Enhancements
+### 💡 **Future Enhancements**
 
 - 📤 Generate PDF reports for all transactions
 - ☁️ Connect to a cloud-based database
