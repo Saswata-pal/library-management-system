@@ -97,5 +97,5 @@ All records persist even after the app is closed.
 
 
 ### 👨‍💻 Author
-- Saswata pal
-- 💼 GitHub: @Saswata-pal
+-  Saswata pal
+-  GitHub: @Saswata-pal
