@@ -78,12 +78,14 @@ View all records in the Treeview table with search and filter options.
 
 ## 🖼️ **Demo Screenshots**
 
-<p align="center">
-  <img src="./demo_screenshots/LOGIN%20PAGE.png" alt="Login Page" width="220" style="margin:10px;">
-  <img src="./demo_screenshots/HOME%20PAGE.png" alt="Home Page" width="220" style="margin:10px;">
-  <img src="./demo_screenshots/RETURN%20BOOK.png" alt="Return Book" width="220" style="margin:10px;">
-  <img src="./demo_screenshots/VIEW%20BOOKs.png" alt="View Book" width="220" style="margin:10px;">
-</p>
+### 🖼️ **Demo Screenshots**
+
+<div align="center">
+  <img src="./demo_screenshots/login_page.png" alt="Login Page" width="220" style="margin:10px;">
+  <img src="./demo_screenshots/home_page.png" alt="Home Page" width="220" style="margin:10px;">
+  <img src="./demo_screenshots/return_book.png" alt="Return Book" width="220" style="margin:10px;">
+  <img src="./demo_screenshots/view_book.png" alt="View Book" width="220" style="margin:10px;">
+</div>
 
 ### 💡 **Future Enhancements
 
