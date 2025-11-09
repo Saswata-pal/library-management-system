@@ -71,16 +71,12 @@ All records persist even after the app is closed.
 
 ### 📆 Example Use Case
 
-Add a new book or student into the system.
-Select a book and issue it to a student using the calendar widget.
-Return the book and automatically calculate fines if late.
-View all records in the Treeview table with search and filter options.
+- Add a new book or student into the system.
+- Select a book and issue it to a student using the calendar widget.
+- Return the book and automatically calculate fines if late.
+- View all records in the Treeview table with search and filter options.
 
 ## 🖼️ **Demo Screenshots**
-
-### 🖼️ **Demo Screenshots**
-
-### 🖼️ **Demo Screenshots**
 
 <div align="center">
   <img src="./demo_screenshots/login_page.png" alt="Login Page" width="320" style="margin:10px;">
@@ -95,12 +91,12 @@ View all records in the Treeview table with search and filter options.
 
 ### 💡 **Future Enhancements
 
-📤 Generate PDF reports for all transactions
-☁️ Connect to a cloud-based database
-🔒 Add admin authentication and role-based access
-🔔 Send due-date reminders via email or SMS
+- 📤 Generate PDF reports for all transactions
+- ☁️ Connect to a cloud-based database
+- 🔒 Add admin authentication and role-based access
+- 🔔 Send due-date reminders via email or SMS
 
 
 ### 👨‍💻 Author
-Saswata pal
-💼 GitHub: @Saswata-pal
+- Saswata pal
+- 💼 GitHub: @Saswata-pal
